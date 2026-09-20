@@ -1,0 +1,23 @@
+{
+	"name": "outstand",
+	"version": "1.0.0",
+	"description": "Publish and schedule social posts, manage media, and review engagement from Cursor and Grok Bot through Outstand's hosted MCP server. Connect with OAuth.",
+	"author": {
+		"name": "Outstand",
+		"email": "support@outstand.so"
+	},
+	"homepage": "https://www.outstand.so/mcp",
+	"repository": "https://github.com/Outstand-so/grok-bot-agent-plugin",
+	"license": "MIT",
+	"keywords": [
+		"social-media",
+		"marketing",
+		"publishing",
+		"scheduling",
+		"analytics",
+		"outstand",
+		"mcp"
+	],
+	"logo": "assets/outstand-icon.png",
+	"mcpServers": "mcp.json"
+}
